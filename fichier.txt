@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 Il est a moi
 Ceci est la phrase de william
 la phrase de Maxime Dugue
@@ -17,4 +19,5 @@ Non, pas ma ligne!!!!!!!
 alblablaaalalalalal
 blablabla
 
-
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+>>>>>>> 6fc03ec12d8bf5c0dbd614ef65ab635a25506e66
