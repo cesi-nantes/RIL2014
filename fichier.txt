@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 Il est a moi
 Ceci est la phrase de william
 la phrase de Maxime Dugue
@@ -9,6 +8,7 @@ BonjourMonde
 C'est mieux comme ça CEDRIC!
 Une ligne en plus
 C'est mieux comme ça CEDRIC !
+Beaucoup mieux !
 test conflit
 Non, pas ma ligne!!!!!!!
 alalalalalal
@@ -20,4 +20,3 @@ alblablaaalalalalal
 blablabla
 
 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
->>>>>>> 6fc03ec12d8bf5c0dbd614ef65ab635a25506e66
