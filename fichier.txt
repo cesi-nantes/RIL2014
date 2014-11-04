@@ -3,5 +3,9 @@ Ceci est la phrase de william
 la phrase de Maxime Dugue
 Coucou vous !
 modif guillaume
+<<<<<<< HEAD
 Bonjour voici ma phrase
 
+=======
+Let's rock!!!
+>>>>>>> 7927b7e105684f4bd5f03979f5208e189710a19c
