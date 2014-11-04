@@ -13,8 +13,12 @@ Let's rock!!!
 =======
 BonjourMonde
 C'est mieux comme ça CEDRIC !
+<<<<<<< HEAD
 >>>>>>> 6c9664f2ff590890dfe04c6daa2d4b4f099e391f
 
 
 test
 
+=======
+Non, pas ma ligne!!!!!!!
+>>>>>>> 5e7146bb5f4349189300dfd6ce6ebd436db7742e
