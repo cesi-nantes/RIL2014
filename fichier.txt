@@ -4,13 +4,18 @@ la phrase de Maxime Dugue
 Coucou vous !
 modif guillaume
 BonjourMonde
+C'est mieux comme ça CEDRIC!
+Une ligne en plus
 C'est mieux comme ça CEDRIC !
+test conflit
+Non, pas ma ligne!!!!!!!
+alalalalalal
 les mignons
-=======
 test conflit
 Non, pas ma ligne!!!!!!!
 
 alblablaaalalalaa:x
 
 blablabla
+
 
