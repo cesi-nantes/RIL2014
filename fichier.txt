@@ -6,3 +6,9 @@ modif guillaume
 BonjourMonde
 C'est mieux comme ça CEDRIC !
 les mignons
+=======
+test conflit
+Non, pas ma ligne!!!!!!!
+
+alalalalalal
+
