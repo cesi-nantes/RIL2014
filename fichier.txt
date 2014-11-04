@@ -4,8 +4,17 @@ la phrase de Maxime Dugue
 Coucou vous !
 modif guillaume
 <<<<<<< HEAD
+<<<<<<< HEAD
 Bonjour voici ma phrase
 
 =======
 Let's rock!!!
 >>>>>>> 7927b7e105684f4bd5f03979f5208e189710a19c
+=======
+BonjourMonde
+C'est mieux comme ça CEDRIC !
+>>>>>>> 6c9664f2ff590890dfe04c6daa2d4b4f099e391f
+
+
+test
+
