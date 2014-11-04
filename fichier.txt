@@ -5,4 +5,9 @@ Coucou vous !
 modif guillaume
 BonjourMonde
 C'est mieux comme ça CEDRIC !
+<<<<<<< HEAD
 test conflit
+=======
+Non, pas ma ligne!!!!!!!
+>>>>>>> 5e7146bb5f4349189300dfd6ce6ebd436db7742e
+alalalalalal
